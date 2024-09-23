@@ -1,7 +1,7 @@
 ## 👋 Hi there
 I'm Pedro Vitor, a technology enthusiast and software developer. I'm currently dedicated to building and shaping SysAgro, a startup with innovative technology solutions for the Livestock industry.
 
-With approximately 5 years of experience in programming, I've had the opportunity to work with a wide range of technologies, both for web and mobile development.
+With approximately 7 years of experience in programming, I've had the opportunity to work with a wide range of technologies, both for web and mobile development.
 
 ## 🚀 Expertise
 I've spent the past few years honing my skills in both frontend and backend development. While I have experience as a full-stack developer, my specialization lies in backend development, where I excel at creating APIs, implementing best practices, and maintaining code organization and structure.
